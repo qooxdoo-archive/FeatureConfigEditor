@@ -42,7 +42,7 @@
   "let" :
   {
     "APPLICATION"  : "fce",
-    "QOOXDOO_PATH" : "../..",
+    "QOOXDOO_PATH" : "../qooxdoo",
     "QXTHEME"      : "fce.theme.Theme",
     "API_EXCLUDE"  : ["qx.test.*", "${APPLICATION}.theme.*", "${APPLICATION}.test.*"],
     "LOCALES"      : [ "en" ],

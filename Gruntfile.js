@@ -1,6 +1,6 @@
 // requires
 var util = require('util');
-var qx = require("../../tool/grunt");
+var qx = require("../qooxdoo/tool/grunt");
 
 // grunt
 module.exports = function(grunt) {
